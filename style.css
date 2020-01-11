@@ -1,5 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
+img{
+	width: 100%
+}
+
 .contenedor{
 	width: 100%;
 	display: flex;
@@ -48,6 +52,15 @@
 	
 }
 
-body{
+.gallery{
+	
+}
 
+.figure-item{
+	oferflow: hidden;
+	height: 500px;
+}
+
+.row{
+	
 }
